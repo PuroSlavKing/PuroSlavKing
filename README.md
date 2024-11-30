@@ -1,6 +1,6 @@
 [![EverwoodDividerOpen](https://s.iimg.su/s/13/jB1ijpe4eoNeDPveog4DcHNnCM6JQKpcEoyHjPcs.png)](https://github.com/AtaraxiaSpaceFoundation/Everwood-14)
 
-[<img src="https://s.iimg.su/s/13/lMzIC7EIejJHZwgx4UHMKyjuqYscEF6qDUsRrBlL.png" alt="Everwood" width="160" height="160" align="right">](https://github.com/AtaraxiaSpaceFoundation/Everwood-14)
+[<img src="https://s.iimg.su/s/13/lMzIC7EIejJHZwgx4UHMKyjuqYscEF6qDUsRrBlL.png" alt="Everwood" width="140" height="140" align="right">](https://github.com/AtaraxiaSpaceFoundation/Everwood-14)
 
 <picture>
   <source
